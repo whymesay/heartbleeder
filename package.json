@@ -1,6 +1,6 @@
 {
-  "name": "adsl_proxy",
-  "version": "1.2.0",
+  "name": "tunnel_proxypool",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/whymesay/adsl_proxy"
+    "url": "https://github.com/whymesay/tunnel_proxypool"
   },
   "keywords": [
     "react",
@@ -29,7 +29,7 @@
   "author": "whymesay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whymesay/adsl_proxy/issues"
+    "url": "https://github.com/whymesay/tunnel_proxypool/issues"
   },
   "files": [
     "dist",
@@ -75,7 +75,8 @@
     "react-util-tea-toy": "1.0.0",
     "react-util-tea-x": "1.0.0",
     "hexo-compose-util-t": "1.0.0",
-    "proxy_pool_util_tea": "1.0.0"
+    "proxy_pool_util_tea": "1.0.0",
+    "adsl_proxy": "1.0.0"
   },
-  "homepage": "https://github.com/whymesay/adsl_proxy#README.md"
+  "homepage": "https://github.com/whymesay/tunnel_proxypool#README.md"
 }
